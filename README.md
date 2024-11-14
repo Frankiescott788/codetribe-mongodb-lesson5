@@ -5,6 +5,8 @@
 
 # SERVER URL : http://localhost:8080
 ## endpoints
+> post : /api/recipes
+- gets all the recipes from the database
 > get : /api/recipes
 - gets all the recipes from the database
 > get : /api/recipes/:id
